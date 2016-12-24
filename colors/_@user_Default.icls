@@ -1,0 +1,14 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2016-12-24T14:52:20</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2016.3.1.0.0</property>
+    <property name="modified">2016-12-24T15:03:59</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="24" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <colors>
+    <option name="CARET_ROW_COLOR" value="" />
+  </colors>
+</scheme>
