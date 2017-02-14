@@ -5,4 +5,9 @@
   <colors>
     <option name="CARET_ROW_COLOR" value="" />
   </colors>
+  <attributes>
+    <option name="HTML_TAG">
+      <value />
+    </option>
+  </attributes>
 </scheme>
