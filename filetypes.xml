@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".firebaserc" type="JSON" />
+      <mapping pattern="functions" type="JavaScript" />
       <mapping ext="theme" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
