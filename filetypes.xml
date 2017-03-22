@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".firebaserc" type="JSON" />
       <mapping pattern="functions" type="JavaScript" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="theme" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
