@@ -2,7 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".firebaserc" type="JSON" />
-      <mapping ext="theme" type="PLAIN_TEXT" />
+      <mapping pattern="functions" type="JavaScript" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping ext="theme" type="SCSS" />
     </extensionMap>
   </component>
 </application>
