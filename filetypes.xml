@@ -4,7 +4,9 @@
       <mapping pattern=".firebaserc" type="JSON" />
       <mapping pattern="functions" type="JavaScript" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping ext="ts" type="PLAIN_TEXT" />
       <mapping ext="theme" type="SCSS" />
+      <removed_mapping ext="ts" approved="true" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
