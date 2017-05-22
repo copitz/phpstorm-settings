@@ -5,6 +5,7 @@
       <mapping pattern="functions" type="JavaScript" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="theme" type="SCSS" />
+      <mapping ext="xlf" type="XML" />
     </extensionMap>
   </component>
 </application>
