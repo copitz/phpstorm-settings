@@ -4,12 +4,10 @@
     <property name="created">2016-12-24T19:38:09</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2017-05-17T09:21:44</property>
+    <property name="modified">2017-05-24T10:59:47</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="7" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="CARET_ROW_COLOR" value="" />
