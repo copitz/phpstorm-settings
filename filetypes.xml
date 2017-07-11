@@ -5,6 +5,7 @@
       <mapping pattern=".firebaserc" type="JSON" />
       <mapping pattern="functions" type="JavaScript" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="akeneo-bootstrap" type="PLAIN_TEXT" />
       <mapping pattern="build-akeneo" type="PLAIN_TEXT" />
       <mapping pattern="akeneo-run" type="PLAIN_TEXT" />
       <mapping ext="theme" type="SCSS" />
