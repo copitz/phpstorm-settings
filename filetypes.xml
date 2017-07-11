@@ -4,6 +4,7 @@
       <mapping pattern=".firebaserc" type="JSON" />
       <mapping pattern="functions" type="JavaScript" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="akeneo-run" type="PLAIN_TEXT" />
       <mapping ext="theme" type="SCSS" />
       <mapping ext="atom" type="XML" />
       <mapping ext="xlf" type="XML" />
