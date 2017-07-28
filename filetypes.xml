@@ -11,6 +11,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="theme" type="SCSS" />
       <mapping ext="atom" type="XML" />
       <mapping ext="xlf" type="XML" />
