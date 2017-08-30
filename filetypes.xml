@@ -6,6 +6,7 @@
       <mapping pattern="functions" type="JavaScript" />
       <mapping ext="cache" type="PHP" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="entrypoint" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="test-server_rsa" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
