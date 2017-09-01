@@ -2,19 +2,20 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="entrypoint" type="Bash" />
+      <mapping pattern="bashhttp.conf" type="Bash" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping pattern=".firebaserc" type="JSON" />
       <mapping pattern="functions" type="JavaScript" />
       <mapping ext="cache" type="PHP" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="test-server_rsa" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="theme" type="SCSS" />
       <mapping ext="xlf" type="XML" />
       <mapping ext="atom" type="XML" />
