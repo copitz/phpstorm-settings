@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="bashttpd.conf" type="Bash" />
       <mapping pattern="entrypoint" type="Bash" />
-      <mapping pattern="bashhttp.conf" type="Bash" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping pattern=".firebaserc" type="JSON" />
       <mapping pattern="functions" type="JavaScript" />
