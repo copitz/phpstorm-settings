@@ -6,6 +6,7 @@
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping pattern=".firebaserc" type="JSON" />
       <mapping pattern="functions" type="JavaScript" />
+      <mapping ext="gz" type="Native" />
       <mapping ext="cache" type="PHP" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="test-server_rsa" type="PLAIN_TEXT" />
